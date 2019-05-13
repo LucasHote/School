@@ -1,0 +1,54 @@
+#a{
+  width:150px;
+  height:30px;
+  border-radius: 10px;
+  border-color: white;
+}
+#b{
+  width:150px;
+  height:30px;
+  border-radius: 10px;
+  border-color: white;
+}
+#c{
+  width:150px;
+  height:30px;
+  border-radius: 10px;
+  border-color: white;
+}
+#d{
+  width:150px;
+  height:30px;
+  border-radius: 10px;
+  border-color: white;
+}
+#e{
+  width:150px;
+  height:30px;
+  border-radius: 10px;
+  border-color: white;
+  }
+
+
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+p{
+  color: white;
+  font-size: 20px;
+}
+h2{
+  font-size: 40px;
+}
+
+
+body{ text-align: center }
+
+
+body{
+  background-image:url(pordosol.gif);
+  background-size: cover;
+}
